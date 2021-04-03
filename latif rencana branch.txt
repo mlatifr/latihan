@@ -2,3 +2,6 @@
 6 branch ini merupakan percabanagan
 7 sepertinya ini tidak susah kok
 8 ternyata membuat branch dan merge itu mudah ya
+9 sekarang ada 2 fitur
+10 ini sudah  mulai lebih rumit dan harus fokus
+11 tapi saya sedang mengantuk hahaha
