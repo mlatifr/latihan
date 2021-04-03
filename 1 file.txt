@@ -1,3 +1,5 @@
 1 ini saya pertama kali belajar git
 2 saya ingin bisa github selancar mungkin
 3 hal ini karena:
+  a. agar bisa membackup project saya
+  b. untuk menambahkan portofolio saya
